@@ -85,14 +85,4 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Github Stats ⚡
 
-<p align=center>
-  <div align=center>
-      <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Fullstack-Developer&theme=react&border=61dafb&hide_border=true" alt="dev"/>
-      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Fullstack-Developer&theme=react&layout=compact&langs_count=20&hide_title=true"/>
-  </div>
-  <div align="center">
-     
-  </div> 
-</p>
