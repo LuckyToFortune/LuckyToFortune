@@ -2,7 +2,7 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
 
 <div align="center" style="display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+Super-Fullstack-Developer!" alt="Typing SVG" style="display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=FullStack & Blockchain Developer!" alt="Typing SVG" style="display: inline-block;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
 </div>
 
@@ -72,17 +72,4 @@
     </td>
   </tr>
 </table>
-
-## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
-
-- 🙌🏻&emsp; Let's collaborate
-- 🐍&emsp; I like developing with **Python 🤔**
-- 💬&emsp; Ask me about **Web developing**
-- 👨‍💻&emsp; All of my projects are in [here](https://github.com/Super-Fullstack-Developer)
-- ⚡&emsp; I have a rapid development speed **Quick**
-- 📧&emsp; Reach anytime: [here](xxx@gmail.com)
-- 💬&emsp; Leave issues [here](https://github.com/Super-Fullstack-Developer/issues)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
