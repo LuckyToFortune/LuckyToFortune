@@ -204,12 +204,16 @@
       <be>Remix
     </td>
     <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_trufle.png?raw=true" height="45" >
+      <br>Truffle
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" height="45" >
+      <br>MetaMask
     </td>
   </tr>
 </table>
