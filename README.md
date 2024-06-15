@@ -125,12 +125,12 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-  </tr>
-  <tr>
-  <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQeury" />
       <be>jQuery
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
       <br>NodeJS
@@ -155,8 +155,6 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>        
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
@@ -181,6 +179,12 @@
       <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
       <br>Supabase
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
+      <be>Nginx
+    </td>
+  </tr>
+  <tr>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -206,24 +210,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <be>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <be>Github
-    </td> 
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab" />
-      <be>GitLab
-    </td>   
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
-      <be>Nginx
     </td>
   </tr>
 </table>
