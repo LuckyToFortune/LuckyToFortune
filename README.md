@@ -257,9 +257,9 @@
 
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 Hello, everyone. You can call me LuckyToFortune. Ever wonder how a little luck can turn into a grand adventure? That's the magic behind my nickname. It's not just about chance; it's about seizing every opportunity and nurturing it into extraordinary success. It all started with a belief: that a sprinkle of luck, when combined with hard work and innovation, can transform into boundless success.
-<br>
+<be><br>
 Imagine finding a lucky penny and turning it into a pot of gold. In my career as a developer, I’ve taken small sparks of luck and transformed them into thriving, successful projects. This is what I do best—turning the mundane into the magnificent.
-<br>
+<br><be><br>
 When you work with me, you’re not just getting technical expertise; you’re gaining a partner who believes in the power of potential. Let’s take that lucky moment, combine it with innovation and hard work, and create something truly remarkable together.
 <hr/>
 <h2 align="center"> 👯Let's go together!👯 </h2>
