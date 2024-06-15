@@ -213,7 +213,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" height="45" >
-      <br>MetaMask
+      <br>Android
     </td>
   </tr>
 </table>
