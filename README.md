@@ -212,7 +212,7 @@
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" height="45" >
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" height="45" >
       <br>MetaMask
     </td>
   </tr>
