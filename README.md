@@ -102,8 +102,8 @@
       <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".Net" />
-      <be>.Net
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET" />
+      <be>.NET
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
@@ -171,6 +171,10 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
       <be>Redis
@@ -182,14 +186,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
       <be>Nginx
-    </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
     </td>
     <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
@@ -210,6 +206,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
     </td>
   </tr>
 </table>
