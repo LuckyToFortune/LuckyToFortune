@@ -41,16 +41,16 @@
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pug" width="45" height="45" alt="Pug" />
+      <be>Pug
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pug" width="45" height="45" alt="Pug" />
-      <be>Pug
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -84,7 +84,31 @@
       <br>WordPress
     </td>
   </tr>
-  <tr>   
+  <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".Net" />
+      <be>.Net
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <be>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=qt" width="45" height="45" alt="Qt" />
+      <be>Qt
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
@@ -117,10 +141,6 @@
       <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
       <be>GraphQL
     </td>  
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
-      <be>Postman
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
@@ -184,32 +204,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".Net" />
-      <be>.Net
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-      <be>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=qt" width="45" height="45" alt="Qt" />
-      <be>Qt
     </td>
   </tr>
   <tr>
