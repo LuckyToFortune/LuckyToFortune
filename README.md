@@ -26,8 +26,8 @@
       <br>Angular
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=node" width="45" height="45" alt="Express" />
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
+      <br>NodeJS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
@@ -44,10 +44,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
-      <br>Phoenix
     </td>
   </tr>
   <tr>
