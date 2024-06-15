@@ -45,10 +45,6 @@
       <img src="https://skillicons.dev/icons?i=pug" width="45" height="45" alt="Pug" />
       <be>Pug
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -82,6 +78,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
   <tr>
@@ -125,7 +125,9 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    <td align="center" width="90">
+  </tr>
+  <tr>
+  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQeury" />
       <be>jQuery
     </td>
@@ -152,7 +154,7 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
-    </td>
+    </td>        
   </tr>
   <tr>
     <td align="center" width="90">
