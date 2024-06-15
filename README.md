@@ -204,7 +204,7 @@
       <be>Remix
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_trufle.png?raw=true" height="45" >
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" height="45" >
       <br>Truffle
     </td>
     <td align="center" width="90">
