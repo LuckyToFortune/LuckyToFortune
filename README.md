@@ -25,8 +25,12 @@
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="90">
@@ -128,6 +132,12 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
+    </td>
+  </tr>
+  <tr>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br>C
     </td>
   </tr>
 </table>
