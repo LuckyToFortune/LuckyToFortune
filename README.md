@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Full+Stack+and+Blockchain+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
