@@ -235,12 +235,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
 </div>
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- <br>
-  <br>
-</div>
-
 <h2 align="center">👯Let's make "Success" Together!👯</h2><br>
 🤔 Hello, everyone. You can call me LuckyToFortune. Ever wonder how a little luck can turn into a grand adventure? 
 
